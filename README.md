@@ -1,5 +1,6 @@
 # Projeto - Ensaio de Machine Learning
 
+![Ensaio de Machine Learning](/img/andrea-de-santis-zwd435-ewb4-unsplash.jpg)
 ## 1. Problema de Negócio
 
   * Descrição
